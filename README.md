@@ -1,7 +1,5 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2500&pause=1200&color=4ADE9C&center=true&vCenter=true&width=560&lines=we+are+anonymous.+we+are+legion.;we+do+not+forgive.+we+do+not+forget.;web+and+software+developer;engineer" alt="typing banner">
-  
+<a href="https://discord.gg/whqNrKRFtm"><img src="https://readme-typing-svg.herokuapp.com?font=jetbrains+mono&duration=3000&pause=1000&color=128B00&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+SudoBenz!;Coding+and+Hacking+for+fun;Anon+Collective+since+2026" alt="Typing SVG" /></a>
 </div>  
 
 ### 0x01 // About  

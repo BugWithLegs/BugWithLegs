@@ -36,7 +36,7 @@ I'm a technology enthusiast focused on **offensive security, web development, an
 I enjoy understanding how systems work, identifying weaknesses, developing innovative solutions, and building software that makes an impact.
 My approach combines curiosity, creativity, technical precision, and a constant desire to learn.
 
-### `#EXPERTISE`
+### `$EXPERTISE`
 
 | Domain | Focus |
 |---|---|

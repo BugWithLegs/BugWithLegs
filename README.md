@@ -1,41 +1,75 @@
+ 
 <div align="center">
 
-  
-<img width='350px' src="https://i.pinimg.com/1200x/0d/dd/86/0ddd867848da7817775fac78310af3a0.jpg">
-  
-<a href="https://github.com/whiteSHADOW1234/TypingSVG"><img src="https://typingsvg.vercel.app/api/svg?width=900&backgroundOpacity=0&border=false&lines=%5B%7B%22text%22%3A%22Coding+and+Hacking+for+fun%22%2C%22font%22%3A%22JetBrains+Mono%22%2C%22color%22%3A%22%2326a269%22%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.1%7D%2C%7B%22text%22%3A%22Anon+Collective+Since+2026%22%2C%22font%22%3A%22JetBrains+Mono%22%2C%22color%22%3A%22%2326a269%22%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.1%7D%2C%7B%22text%22%3A%22%23WeAreAnons%22%2C%22font%22%3A%22JetBrains+Mono%22%2C%22color%22%3A%22%2326a269%22%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.1%7D%2C%7B%22text%22%3A%22%23Anonymous%22%2C%22font%22%3A%22monospace%22%2C%22color%22%3A%22%2326a269%22%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.1%7D%5D" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=750&lines=ACCESS+GRANTED+%3E_%3BOffensive+Security+Researcher;Full-Stack+Web+Developer;Software+Engineer;Breaking+Limits.+Building+Solutions." />
 
-<img src="https://raw.githubusercontent.com/I-am-Sm1l3/I-am-Sm1l3/refs/heads/main/separator.svg" width="100%">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding animation"/>
 
-### $ whoami
-I’m a hacker and software & web developer focused on code, cybersecurity, and the systems behind the screen. I build, experiment, and dig deep into how technology works. Since 2026, I’ve been part of the Anonymous Collective — exploring security, privacy, OSINT, and the darker side of technology.
+**OFFENSIVE SECURITY · WEB DEVELOPMENT · SOFTWARE ENGINEERING**
 
-<div align="left">
-<pre>
-$ whoami
-[~] Hacktivist
-[~] Developer
-[~] Anon Collective Since '26
-[~] Privacy is a right
-[~] Information Belongs to everyone
-</pre>
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF66)](https://github.com/YOUR_USERNAME)
+[![Security](https://img.shields.io/badge/Offensive_Security-111111?style=for-the-badge&logo=kalilinux&logoColor=00FF66)](#)
+[![Status](https://img.shields.io/badge/Status-ONLINE-111111?style=for-the-badge&logo=statuspage&logoColor=00FF66)](#)
+
 </div>
+
+---
+
+### `$WHOAMI`
+
+```bash
+root@github:~$ whoami
+
+Offensive Security Researcher
+Web Developer
+Software Engineer
+
+root@github:~$ cat mission.txt
+
+Exploring vulnerabilities.
+Engineering powerful applications.
+Automating complex workflows.
+Turning ideas into reality.
+```
+
+I'm a technology enthusiast focused on **offensive security, web development, and software engineering**.
+I enjoy understanding how systems work, identifying weaknesses, developing innovative solutions, and building software that makes an impact.
+My approach combines curiosity, creativity, technical precision, and a constant desire to learn.
+
+### `#EXPERTISE`
+
+| Domain | Focus |
+|---|---|
+| ⚔️ Offensive Security | Vulnerability research, penetration testing, security analysis |
+| 🌐 Web Development | Frontend, backend, full-stack applications |
+| ⚙️ Software Engineering | System architecture, automation, application development |
+| 🧪 Security Research | Exploit analysis, reverse engineering, ethical testing |
+
+### `$ARSENAL`
+
+**TOOLS & LANGUAGES**
+
+![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=00FF66)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=00FF66)
+![PHP](https://img.shields.io/badge/PHP-111111?style=flat-square&logo=php&logoColor=00FF66)
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5&logoColor=00FF66)
+![CSS3](https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3&logoColor=00FF66)
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=nodedotjs&logoColor=00FF66)
+![Linux](https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=00FF66)
+
+</div>
+
+---
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/I-am-Sm1l3/I-am-Sm1l3/refs/heads/main/separator.svg" width="100%">
+### `BREAKING FIREWALL SINCE 2020`
 
-### $ arsenal
+<img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="250" />
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square\&logo=python\&logoColor=00ff66)
-![C](https://img.shields.io/badge/C-0d1117?style=flat-square\&logo=c\&logoColor=00ff66)
-![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square\&logo=openjdk\&logoColor=00ff66)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square\&logo=javascript\&logoColor=00ff66)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square\&logo=linux\&logoColor=00ff66)
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square\&logo=git\&logoColor=00ff66)
+**Think. Build. Break. Improve. Repeat.**
 
-<img src="https://raw.githubusercontent.com/I-am-Sm1l3/I-am-Sm1l3/refs/heads/main/separator.svg" width="100%">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="600">
+`[ CONNECTION ESTABLISHED ]`
 
 </div>
+
